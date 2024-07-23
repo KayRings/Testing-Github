@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+	cout << "This is Kay Rings World, He is a Star !!!!" << endl; 
+	cout << "  This will be liketil theend of time !!! " << endl;
+	cout << "He will be the best in everything that he does " << endl;
+
+	return 0;
+}
